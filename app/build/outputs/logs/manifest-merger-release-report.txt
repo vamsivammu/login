@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:2:1-56:12
+MERGED from [com.android.support:design:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/047eab870c5bc09b241bcc27df917515/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a36bd25117f3d0e8707f2a61f83f6c98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d90189b5ea3fe6d976583310b7034b3d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0-rc1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/volley-1.1.0-rc1.aar/78412ea74d609628381e7a0b66c8a16c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5b7c2bc5e4c74acc2a006d05ded2b3e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ca8f148f333911f468e737343b85c40a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dcca25ad31c2e28af390e6cf62871831/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25f086056f3561bce0e7280b9ca937df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3b55c2936613e1caaf9bd12841573b32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/174c83cd1c2d0e89cf25025dc386d7e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b8810f09f08fc6d3494cbe798330f1dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/2738b5d4c260b910c0a50d961e11a8df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/17af926e8ae507ce784d2a9a7072e260/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a6476c65fc84e2278082e6d30cd75f31/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/de962de407e4682ab3f4b32ca3aa3daa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d7eba3c45198739e16cef837d400b2d8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/23adeb77a0074634347f72778781ca93/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/51221cab2bfdf4c783d1c7ed1edbc5ae/AndroidManifest.xml:17:1-22:12
+INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+		INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:9:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:10:22-69
+application
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:12:5-54:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d90189b5ea3fe6d976583310b7034b3d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d90189b5ea3fe6d976583310b7034b3d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0-rc1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/volley-1.1.0-rc1.aar/78412ea74d609628381e7a0b66c8a16c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0-rc1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/volley-1.1.0-rc1.aar/78412ea74d609628381e7a0b66c8a16c/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.example.dcf.login.MainActivity
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.dcf.login.login
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:noHistory
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:27:13-34
+intent-filter#action:name:login+category:name:android.intent.category.DEFAULT
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:29:13-33:29
+action#login
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:30:17-48
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:30:25-45
+category#android.intent.category.DEFAULT
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:32:27-73
+activity#com.example.dcf.login.registration
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:35:9-43:20
+	android:noHistory
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:36:13-41
+intent-filter#action:name:register+category:name:android.intent.category.DEFAULT
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:38:13-42:29
+action#register
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:39:17-51
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:39:25-48
+activity#com.example.dcf.login.GameActivity
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:44:9-53:20
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:44:19-47
+intent-filter#action:name:gameactivity+category:name:android.intent.category.DEFAULT
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:46:13-50:29
+action#gameactivity
+ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:47:17-55
+	android:name
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml:47:25-52
+uses-sdk
+INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/047eab870c5bc09b241bcc27df917515/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/047eab870c5bc09b241bcc27df917515/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a36bd25117f3d0e8707f2a61f83f6c98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a36bd25117f3d0e8707f2a61f83f6c98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d90189b5ea3fe6d976583310b7034b3d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d90189b5ea3fe6d976583310b7034b3d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0-rc1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/volley-1.1.0-rc1.aar/78412ea74d609628381e7a0b66c8a16c/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0-rc1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/volley-1.1.0-rc1.aar/78412ea74d609628381e7a0b66c8a16c/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5b7c2bc5e4c74acc2a006d05ded2b3e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5b7c2bc5e4c74acc2a006d05ded2b3e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ca8f148f333911f468e737343b85c40a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ca8f148f333911f468e737343b85c40a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dcca25ad31c2e28af390e6cf62871831/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dcca25ad31c2e28af390e6cf62871831/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25f086056f3561bce0e7280b9ca937df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25f086056f3561bce0e7280b9ca937df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3b55c2936613e1caaf9bd12841573b32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3b55c2936613e1caaf9bd12841573b32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/174c83cd1c2d0e89cf25025dc386d7e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/174c83cd1c2d0e89cf25025dc386d7e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b8810f09f08fc6d3494cbe798330f1dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b8810f09f08fc6d3494cbe798330f1dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/2738b5d4c260b910c0a50d961e11a8df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/2738b5d4c260b910c0a50d961e11a8df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/17af926e8ae507ce784d2a9a7072e260/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/17af926e8ae507ce784d2a9a7072e260/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a6476c65fc84e2278082e6d30cd75f31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a6476c65fc84e2278082e6d30cd75f31/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/de962de407e4682ab3f4b32ca3aa3daa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/de962de407e4682ab3f4b32ca3aa3daa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d7eba3c45198739e16cef837d400b2d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d7eba3c45198739e16cef837d400b2d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/23adeb77a0074634347f72778781ca93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/23adeb77a0074634347f72778781ca93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/51221cab2bfdf4c783d1c7ed1edbc5ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /scratch/dcf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/51221cab2bfdf4c783d1c7ed1edbc5ae/AndroidManifest.xml:20:5-44
+INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+		INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+		ADDED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
+		INJECTED from /scratch/dcf/Downloads/login/app/src/main/AndroidManifest.xml
